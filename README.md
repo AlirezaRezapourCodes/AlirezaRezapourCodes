@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Alireza Rezapour 👋
 
-<!--
-**AlirezaRezapourCodes/AlirezaRezapourCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer
 
-Here are some ideas to get you started:
+I build backend applications, REST APIs, and database-driven systems using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on writing clean, maintainable code and developing practical solutions to real-world problems.
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+
+**Backend**
+- Django
+- Django REST Framework
+- FastAPI
+
+**Databases**
+- PostgreSQL
+- MongoDB
+- SQLite
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+### 🚀 Current Focus
+
+- Building scalable REST APIs
+- Backend architecture and database design
+- Authentication and authorization
+- API integrations and automation
+- Testing and deployment
+
+### 📌 Featured Projects
+
+- **BizFlow API** — Business management REST API *(In development)*
+
+### 📫 Connect with me
+
+- GitHub: [@AlirezaRezapourCodes](https://github.com/AlirezaRezapourCodes)
+
+---
+
+*Always learning. Always building.*
